@@ -32,6 +32,6 @@ def predict():
 
 
 #run the app
-if __name == '__main__':
+if __name__ == '__main__':
     app.run()
 
