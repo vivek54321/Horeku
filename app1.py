@@ -23,4 +23,6 @@ def predict():
     return 'Form Submitted'
 
 #run the app
-app.run(debug=True)
+if __name == '__main__':
+    app.run()
+
